@@ -1,2 +1,21 @@
-### Hi there 👋
-I'm [Cryptobyte](https://cryptobyte.dev), a senior software developer, security consultant and all around technology enthusiast currently working with [Otis AI](https://meetotis.com) building an AI digital marketing assistant. I have a number of personal projects, finished and unfinished, in my Github repositories. If you have any comments, questions or concerns feel free to [reach out](mailto:me@cryptobyte.dev).
+```console
+              .:--. :                   Cryptobyte@USA
+          -**#*+=#*.=.==.-        . .   --------------
+       .+%+::::::**.:+=..-:+       .    Uptime: "30 years"
+      =%=:::::-:=%*.@*%+....-=          OS: "macOS"
+     *#:::::*%%%%@*.:@+..*##-:+         Machine: "M1 MBP"
+    -@::::*#%#+#%@#..%=..*%%-.-.        Editor: "VSCode"
+    **:::=@*+#%=.*@####@=:%=..-:        Hobbies: "Digital Security, Cars and Cycling"
+    **::-#%*#%.  *%====@#++:..-=        Programming Languages: "Javascript, TypeScript, Swift, Java"
+    -%::=@#*#%   *%====@+---+##-        Industry Experience: "Digital Security, Server Administration"
+     %=::=@#+%*. *%****@*===*#%=
+     -@::-%%%**%#%#=@+=-.....=          Work
+      +%::::#@*%#%*.+*%*....-:          ----
+       *%::::-+-*@*..*%%#..:=           Company: "Otis AI"
+        =%=::::::**..-##=.--            Title: "Senior Software Developer"
+         .%+:::::**......+.             Tenure: "2 Years"
+           #+::::**....:*
+           +@####%%####*=               Contacts
+           %%%%%%%%%%%%%@               --------
+. .        @%###########@.              Email: "me@cryptobyte.dev"
+```

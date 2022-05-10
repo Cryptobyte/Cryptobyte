@@ -30,15 +30,15 @@
 ### DevOps
 <p align="center"> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.terraform.io" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform%20-%231572B6.svg?style=plastic&logo=terraform&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://github.com/features/actions" target="_blank">
     <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions%20-%231572B6.svg?style=plastic&logo=githubactions&logoColor=white">
   </a> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://aws.amazon.com" target="_blank"> 
    <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)%20-%23E34F26.svg?style=plastic&logo=amazonaws&logoColor=white">
   </a>   
 </p>
@@ -102,9 +102,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Mac-0078D6?style=plastic&logo=apple&logoColor=white"></a>
+    <a href="https://www.apple.com/macos" target="_blank">
+	<img src="https://img.shields.io/badge/Mac-0078D6?style=plastic&logo=apple&logoColor=white">
+    </a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="https://www.linux.org" target="_blank">
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+    </a>
 </p>
 
 <br> 

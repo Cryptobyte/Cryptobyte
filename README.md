@@ -20,7 +20,7 @@
 </a> 
 
 <a href="https://aws.amazon.com" target="_blank"> 
-  <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)%20-%23E34F26.svg?style=plastic&logo=amazonaws&logoColor=white">
+  <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/AWS%20-%23E34F26.svg?style=plastic&logo=amazonaws&logoColor=white">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -40,7 +40,7 @@
 </a>
 	
 <a href="https://nodejs.org/en/" target="_blank">
-  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS%20-%23F05033.svg?style=plastic&logo=node&logoColor=white">
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS%20-%23F05033.svg?style=plastic&logo=nodedotjs&logoColor=white">
 </a>
 
 <a href="https://expressjs.com/" target="_blank">
@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://reactnative.dev/" target="_blank">
-  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-FE7A16?style=plastic&logo=react-native&logoColor=white">
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-FE7A16?style=plastic&logo=react&logoColor=white">
 </a>
 </p>
 

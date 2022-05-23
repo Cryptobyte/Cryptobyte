@@ -60,10 +60,9 @@
 
 <br><br>
 
-- :technologist: I love using Software as a solution for every `problem`.
 - :computer: Worked with startups such as `Otis AI`, `MeepLabs` and `Fractionalist`.
-- :student: I’m currently learning `Unity` and `game development`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- :student: Currently learning `Unity` and `game development`.
+- :thinking: Currently open for a new `job opportunity`.
 - :nerd_face: Always `learning new things`.
 
 <br>

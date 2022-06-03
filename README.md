@@ -54,9 +54,9 @@
 
 ----
 
-## <img src = "https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px" />  About me
+## <img src = "https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50" />  About me
 
-<img align="right" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" />
+<img align="right" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250" height="200" />
 
 <br><br>
 

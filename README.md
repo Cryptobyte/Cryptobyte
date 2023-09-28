@@ -27,7 +27,7 @@ Hello! I'm Cryptobyte, a life long learner dedicated to producing high quality c
   </a> 
 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C--Sharp%20-%23F7DF1E.svg?style=plastic&logo=csharp&logoColor=black">
+    <img alt="C#" src="https://img.shields.io/badge/C--Sharp%20-%23F7DF1E.svg?style=plastic&logo=csharp&logoColor=white">
   </a>
 	
   <a href="https://nodejs.org/en/" target="_blank">
@@ -40,6 +40,10 @@ Hello! I'm Cryptobyte, a life long learner dedicated to producing high quality c
 
   <a href="https://reactnative.dev/" target="_blank">
     <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-FE7A16?style=plastic&logo=react&logoColor=white">
+  </a>
+
+  <a href="https://github.com/cryptobyte" target="_blank">
+    <img alt="recursion" src="https://komarev.com/ghpvc/?username=Cryptobyte&style=plastic&label=Views">
   </a>
 </p>
 

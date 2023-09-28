@@ -1,20 +1,17 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&color=33FF33&size=30&center=true&vCenter=true&width=500&height=100&lines=Senior+Software+Developer;DevOps+Engineer;Cybersecurity+Expert;Continuous+Learner"></a>
-</p>
+## <img src = "https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50" />  About me
 
-<br>
+<img align="right" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="270" height="225" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cryptobyte&layout=compact&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Cryptobyte" />
-</p>
+<br><br>
 
-<br>
+- :computer: Worked with startups such as `Otis AI`, `MeepLabs` and `Fractionalist`.
+- :student: Currently learning `Unity` and `game development`.
+- :thinking: Currently open for a new `job opportunity`.
+- :nerd_face: Always `learning new things`.
+
+<br><br>
 
 <p align="center"> 
-<a href="https://www.terraform.io" target="_blank">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform%20-%231572B6.svg?style=plastic&logo=terraform&logoColor=white">
-</a> 
-
 <a href="https://github.com/features/actions" target="_blank">
   <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions%20-%231572B6.svg?style=plastic&logo=githubactions&logoColor=white">
 </a> 
@@ -52,22 +49,8 @@
 </a>
 </p>
 
-----
-
-## <img src = "https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50" />  About me
-
-<img align="right" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="270" height="225" />
-
 <br><br>
 
-- :computer: Worked with startups such as `Otis AI`, `MeepLabs` and `Fractionalist`.
-- :student: Currently learning `Unity` and `game development`.
-- :thinking: Currently open for a new `job opportunity`.
-- :nerd_face: Always `learning new things`.
-
-<br>
-
-----
 ## 🏆 Reviews
 
 > Cryptobyte is a strong developer and devops team member. He has a knack for being able to solve tricky problems and is very thorough in his analysis and execution. He is also very flexible and has been great to have on our team to help put out "fires" at all times of the day/week.

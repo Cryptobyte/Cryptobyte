@@ -59,6 +59,10 @@ Hello! I'm Cryptobyte, a life long learner dedicated to producing high quality c
 
 ## 🏆 Reviews
 
+> I've had the absolute pleasure of working alongside Steven for the past year, and I can honestly say he's one of the most dedicated and skilled backend engineers I've ever met, and I've spent a Cohort in TechStars 19’. Steven’s ability to jump into any codebase, no matter how complex, is truly impressive. What stands out even more is Steven’s ability to juggle multiple hats seamlessly while never missing a sprint goal. Watching him build a backend reminiscent of TikTok's, handling such a variety of tasks with ease, was nothing short of extraordinary.<br /><br />
+Working with Steven has been an incredible experience. His positive attitude, combined with his massive skill set, makes him a standout engineer. Steven is not just a colleague I've worked with; he's a professional I've learned from and been inspired by. I can confidently recommend Steven for any project or team, knowing he'll bring dedication and expertise to the table – you have my word.
+- **Charles Arcodia**, CTO of Kwiks Inc
+
 > Cryptobyte is a strong developer and devops team member. He has a knack for being able to solve tricky problems and is very thorough in his analysis and execution. He is also very flexible and has been great to have on our team to help put out "fires" at all times of the day/week.
 - **Scott Kveton**, Co-Founder & CEO of Fractionalist
 

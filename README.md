@@ -54,20 +54,3 @@ Hello! I'm Cryptobyte, a life long learner dedicated to producing high quality c
     </sup>
   </sub>
 </p>
-
-<br>
-
-## 🏆 Reviews
-
-> I've had the absolute pleasure of working alongside Steven for the past year, and I can honestly say he's one of the most dedicated and skilled backend engineers I've ever met, and I've spent a Cohort in TechStars 19’. Steven’s ability to jump into any codebase, no matter how complex, is truly impressive. What stands out even more is Steven’s ability to juggle multiple hats seamlessly while never missing a sprint goal. Watching him build a backend reminiscent of TikTok's, handling such a variety of tasks with ease, was nothing short of extraordinary.<br /><br />
-Working with Steven has been an incredible experience. His positive attitude, combined with his massive skill set, makes him a standout engineer. Steven is not just a colleague I've worked with; he's a professional I've learned from and been inspired by. I can confidently recommend Steven for any project or team, knowing he'll bring dedication and expertise to the table – you have my word.
-- **Charles Arcodia**, CTO of Kwiks Inc
-
-> Cryptobyte is a strong developer and devops team member. He has a knack for being able to solve tricky problems and is very thorough in his analysis and execution. He is also very flexible and has been great to have on our team to help put out "fires" at all times of the day/week.
-- **Scott Kveton**, Co-Founder & CEO of Fractionalist
-
-> Cryptobyte demonstrated a mastery of mobile application development and backend development throughout his tenure as Full Stack Software Developer at MeepLabs. He currently holds a Full Stack Developer position at Otis AI where he has played a pivotal role in building a digital marketing platform for small businesses. Cryptobyte is committed to building robust software solutions that follow best practices in the industry. He has demonstrated the ability to grasp new concepts and frameworks. I will definitely continue to work with Steven in the future.
-- **Miguel Guerrero**, Founder & CEO of Otis AI
-
-> Cryptobyte is a talented engineer, a technology enthusiast, and a true team player. Working with Cryptobyte was an absolute pleasure. From the first day I started, he demonstrated extensive knowledge of the codebase, the industry, and what it means to scale. He mentored many engineers as they onboarded, answering any and all questions with enthusiasm. Something particularly notable was Cryptobyte's documentation. As we worked together to figure out how to scale knowledge transfer, Cryptobyte took on the task of singlehandedly writing out multiple critical pieces of technical documentation. Said documentation was critical in maximizing our team's efficiency. I also particularly admire Cryptobyte’s passion. His love for technology and innovation is inescapable. Cryptobyte’s free time is often occupied with activities such as robotics, security research, and architectural analysis. In a world where so many engineers do what they do as means to an end, I can say with absolute certainty that Cryptobyte’s career is a pure reflection of his passion, love, and drive for technology. Any organization is lucky to have him.
-- **Channi Greenwall**, Product Lead & Strategist, Endpoint Security at SecurityScorecard

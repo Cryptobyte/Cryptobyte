@@ -5,7 +5,7 @@ With over 14 years as a Software Engineer, largely focused on startups, I have a
 
 ### What I've Done
 - Built companies from 0 -> 1
-- Lead development teams of all sizes
+- Led development teams of all sizes
 - Scaled infrastructure to millions of users
 - Collaborated on pitch decks and business plans
 - Developed hundreds of my own independent projects

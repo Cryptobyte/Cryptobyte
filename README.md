@@ -18,7 +18,7 @@ I've been a Founder, Software Engineer, DevOps Engineer, Startup Advisor, Team L
 ### Current Interests
 - Embedded Development & Hardware (ESP32, Arduino, etc.)
 - Mapping Software (GIS, OSM, etc.)
-- Vehicle Software (ODBII)
+- Vehicle Software (CAN Bus, ODBII)
 - AI/ML (MCP, LLM Infrastructure, etc.)
 
 ---
